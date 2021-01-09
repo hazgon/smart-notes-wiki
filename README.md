@@ -1,4 +1,4 @@
-# smart-notes-wiki
+# smart notes wiki
 
 Мы ведём работу над базой знаний по ведению Smart Notes на платформе GitHub. База ведется в формате хранилища Obsidian, которое содержит файлы в разметке markdown. 
 
